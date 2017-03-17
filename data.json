@@ -1,0 +1,44 @@
+[
+  {
+    "proposition":"Légalisation du cannabis",
+    "values":[
+      {
+        "critere":"Réalisable",
+        "proposition":"Légalisation du cannabis",
+        "score":3,
+        "description": "Il faudra une majorité"
+
+      },
+      {
+        "critere":"Impact économique",
+        "proposition":"Légalisation du cannabis",
+        "score":4,
+        "description": "La légalisation devrait rapporter 26 euros par mois et par habitant"
+      },
+      {
+        "critere":"Atteinte des objectifs",
+        "proposition":"Légalisation du cannabis",
+        "score":3,
+        "description": "La mesure peut atteindre son objectif, mais pas sans effets secondaires négatifs"
+      },
+      {
+        "critere":"Rapport cible/concret",
+        "proposition":"Légalisation du cannabis",
+        "score":5,
+        "description": "Cette mesure cible les consommateurs, et a -auprès d'eux- un marqueur d'avancée 'sociétale'."
+      },
+      {
+        "critere":"Nombre de personnes touchées",
+        "proposition":"Légalisation du cannabis",
+        "score":5,
+        "description": "Un Français sur deux a consommé du cannabis, et plus d'un million en consomment régulièrement"
+      },
+      {
+        "critere":"Ajoute un droit ou le restreint",
+        "proposition":"Légalisation du cannabis",
+        "score":5,
+        "description": "Une légalisation du cannabis ajoute un droit"
+      }
+    ]
+  }
+]
