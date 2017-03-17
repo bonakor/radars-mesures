@@ -1,8 +1,7 @@
-# radars-mesures-2k17
-Le radar cynico-réaliste des mesures phares de la présidentielle 2017 pour le site 2k17.fr
+# Le radar cynico-réaliste des mesures phares de la présidentielle 2017 pour le site 2k17.fr
 
 
-##Notre méthodologie :
+<h2>Notre méthodologie :</h2>
 Chaque promesse est évaluée d’après les mêmes critères, établis en amont.
 En théorie, plus une mesure occupe du volume dans la visualisation, plus elle s’approche d’une mesure idéale.
 
@@ -14,10 +13,10 @@ Les données, ainsi que le code source de la visualisation sont sous licence Cre
 
 Le critère 0 est attribué quand il nous paraît impossible de juger la mesure.
 
-##Les mesures évaluées jusqu'à présent :
+<h2>Les mesures évaluées jusqu'à présent :</h2>
 - <a href="//2k17.fr/583-legalisation-cannabis-papier-cest-plutot-bonne-mesure/">La légalisation du cannabis</a>.
 
-##Sources des données:
+<h2>Sources des données:</h2>
 Les données concernant les mesures et le barème (ainsi que les sources utilisées) sont consultables <a href="https://docs.google.com/spreadsheets/d/1SG2AzPbkRxPyOL0-7lj-qf98q7-H1jFKRXL15HcWErw/pubhtml">ici</a>.
 
 La visualisation est réalisée avec la librairie d3.js. Le code source est disponible ici (vous êtes sur la page en question).
